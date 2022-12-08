@@ -2,3 +2,4 @@
 .DS_Store
 /bin
 /target
+node_modules
